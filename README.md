@@ -1,3 +1,3 @@
-# Satria Data 2023
+# Satria Data Penyisihan ITB 2023
 
-ongoing...
+binary classification
